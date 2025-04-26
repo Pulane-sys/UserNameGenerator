@@ -1,0 +1,2 @@
+# UserNameGenerator
+Generates username
